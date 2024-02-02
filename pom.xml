@@ -19,9 +19,9 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
-        <sonar.host.url>http://3.6.41.122:9000/</sonar.host.url>
+        <sonar.host.url>http://54.87.66.243:9000/</sonar.host.url>
         <sonar.login>admin</sonar.login>
-        <sonar.password>admin123</sonar.password>
+        <sonar.password>admin@123</sonar.password>
 
         <!-- Spring -->
         <!-- For framework compatibility, refer to the Spring Boot Dependencies BOM -->
